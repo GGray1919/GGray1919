@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GGray1919
-- 👀 I’m interested in web development, reading, art, classic movies, sleeping, random questions
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web/mobile development, auotmation, front-end
+- 🌱 I’m currently learning HTML & CSS, JavaScript, GitLabs, CI/CD pipeline
+- 💞️ I’m looking to collaborate on ... N?A
 - 📫 How to reach me: bryonna.t.gray@gmail.com
 
 <!---
